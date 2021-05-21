@@ -9,7 +9,7 @@
   ],
   "config": {
     "browsersync": {
-      "proxy": "localhost:8888",
+      "proxy": "wocker.test",
       "port": 3000
     },
     "image": {
