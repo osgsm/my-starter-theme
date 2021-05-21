@@ -1,7 +1,6 @@
 {
-  "name": "bathe",
-  "version": "1.1.1",
-  "description": "The simplest WordPress starter theme including full setup for Sass, PostCSS, Autoprefixer, stylelint, Webpack, ESLint, imagemin, Browsersync, etc.",
+  "name": "my-starter-theme",
+  "version": "1.0.0",
   "browserslist": [
     "> 1%",
     "last 2 versions",
@@ -41,27 +40,6 @@
     "watch:webpack": "npm run webpack -- --watch",
     "watch": "run-p watch:*"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wp-bathe/bathe.git"
-  },
-  "keywords": [
-    "WordPress",
-    "Browsersync",
-    "Sass",
-    "PostCSS",
-    "Autoprefixer",
-    "imagemin",
-    "Webpack",
-    "stylelint",
-    "ESLint"
-  ],
-  "author": "Kite",
-  "license": "GPL-2.0+",
-  "bugs": {
-    "url": "https://github.com/wp-bathe/bathe/issues"
-  },
-  "homepage": "https://github.com/wp-bathe/bathe",
   "engines": {
     "node": ">= 12.0.0",
     "npm": ">= 6.9.0"
